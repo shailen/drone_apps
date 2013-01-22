@@ -1,6 +1,6 @@
 import "package:unittest/unittest.dart";
 import 'package:unittest/html_enhanced_config.dart';
-import 'package:htmlEnhancedConfig/htmlEnhancedConfig.dart';
+import 'package:html_enhanced_config/html_enhanced_config.dart';
 import 'dart:html';
 
 void main () {

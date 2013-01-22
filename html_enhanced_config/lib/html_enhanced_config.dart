@@ -1,4 +1,4 @@
-library htmlEnhancedConfig;
+library html_enhanced_config;
 import 'dart:html';
 
 void reverseText(Event event) {
