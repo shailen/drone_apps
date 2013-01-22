@@ -1,0 +1,24 @@
+v00001
+mock.dart
+false
+happenedAtMostOnce happenedExactly Mock callsTo StepValidator _qualifiedName sharedLog happenedAtMost _MockFailureHandler neverThrew throwing neverHappened _Sentinel Action _mockFailureHandler happenedAtLeastOnce sometimeThrew Responder _mockingErrorFormatter happenedAtLeast returning alwaysThrew LogEntryList neverReturned alwaysReturned happenedOnce CallMatcher _ResultMatcher Behavior _TimesMatcher _Frequency sometimeReturned _ResultSetMatcher LogEntry _noArg 
+beforeEntry happenedAtMostOnce stepwiseValidate reason verify _qualifiedName thenThrow getMatches _MockFailureHandler until beforeLast includeKeys pos untilFirst matchState arg matches time _neighboring matcher fail nameFilter afterLast verbose describe getLogs reset clearLogs methodName signature LogEntryList _pad2 alwaysThrew delta beforeFirst matchedMethodName log calls RETURN describeMismatch start failureReturnValue alwaysCall happenedExactly actionMatcher PROXY Mock defaultPosition logList callsTo before msecs validator preceding sharedLog _throwIfNoBehavior neverHappened distance _Sentinel Action findLogEntry secs failMatch proxy sometimeThrew keyEntry throwIfNoBehavior happenedAtLeast min scratch resetBehavior d max e b keys logs mockNameFilter n verifyZeroInteractions k neverReturned NONE alwaysReturned i isPreceding arguments Behavior s _Frequency item sometimeReturned _ResultSetMatcher method baseTime THROW actions last count numToCopy args segment invocation filterName skip after _mockFailureHandler description untilEntry happenedAtLeastOnce when action value afterFirst key returning rtn mockName _tail mismatchDescription argMatchers logging numArgs SOME remainingCount ALL logFilter inPlace CallMatcher owner eaction toString _noArg filter val arg5 arg4 noSuchMethod arg3 logEntry arg2 arg1 arg0 StepValidator thenReturn from frequency add happenedAtMost fromLast neverThrew newList throwing response following _logging fromEntry enableLogging _makePredicate name IGNORE keyIterator Responder _mockingErrorFormatter afterEntry _behaviors destructive entryFilter fromFirst happenedOnce untilLast _head _ResultMatcher alwaysReturn thenCall entry _TimesMatcher actual alwaysThrow LogEntry arg6 first arg7 arg8 arg9 
+matches mock reason failureHandler toString 
+dart://core/core.dart dart://core/core.dart/map.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/iterator.dart 1357359234000
+file:/Users/shailentuli/.pub-cache/hosted/pub.dartlang.org/unittest-0.2.10+1/lib/matcher.dart file:/Users/shailentuli/.pub-cache/hosted/pub.dartlang.org/unittest-0.2.10+1/lib/matcher.dart/src/basematcher.dart 1357694985000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+file:/Users/shailentuli/.pub-cache/hosted/pub.dartlang.org/unittest-0.2.10+1/lib/matcher.dart file:/Users/shailentuli/.pub-cache/hosted/pub.dartlang.org/unittest-0.2.10+1/lib/matcher.dart/src/core_matchers.dart 1357694985000
+file:/Users/shailentuli/.pub-cache/hosted/pub.dartlang.org/unittest-0.2.10+1/lib/matcher.dart file:/Users/shailentuli/.pub-cache/hosted/pub.dartlang.org/unittest-0.2.10+1/lib/matcher.dart/src/expect.dart 1357694985000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/invocation_mirror.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/date.dart 1357359234000
+file:/Users/shailentuli/.pub-cache/hosted/pub.dartlang.org/unittest-0.2.10+1/lib/matcher.dart file:/Users/shailentuli/.pub-cache/hosted/pub.dartlang.org/unittest-0.2.10+1/lib/matcher.dart/src/interfaces.dart 1357694985000
+dart://core/core.dart dart://core/core.dart/exceptions.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+file:/Users/shailentuli/.pub-cache/hosted/pub.dartlang.org/unittest-0.2.10+1/lib/mock.dart file:/Users/shailentuli/.pub-cache/hosted/pub.dartlang.org/unittest-0.2.10+1/lib/mock.dart/mock.dart 1357694985000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+file:/Users/shailentuli/.pub-cache/hosted/pub.dartlang.org/unittest-0.2.10+1/lib/matcher.dart file:/Users/shailentuli/.pub-cache/hosted/pub.dartlang.org/unittest-0.2.10+1/lib/matcher.dart/src/description.dart 1357694985000
+dart://core/core.dart dart://core/core.dart/identical.dart 1357359234000
+

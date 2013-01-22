@@ -1,0 +1,31 @@
+v00001
+random.dart
+false
+Random 
+nextDouble max nextBool seed Random nextInt 
+dart 
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/double.dart 1357359234000
+dart://math/math.dart dart://math/math.dart/random.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+base.dart
+false
+min E LN2 atan parseInt pow LN10 max asin cos sqrt SQRT2 log exp atan2 PI parseDouble sin SQRT1_2 LOG10E tan acos LOG2E 
+E LN2 atan parseInt pow asin cos atan2 SQRT1_2 acos min max LN10 b exponent sqrt a SQRT2 log exp PI parseDouble sin string tan LOG10E x LOG2E 
+dart 
+dart://math/math.dart dart://math/math.dart/base.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/num.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/errors.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/double.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+math.dart
+false
+
+
+dart 
+

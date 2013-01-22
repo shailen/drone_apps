@@ -1,0 +1,6 @@
+name:  htmlEnhancedConfig
+description:  A sample application
+
+dependencies:
+  browser: 0.0.1
+  unittest: any

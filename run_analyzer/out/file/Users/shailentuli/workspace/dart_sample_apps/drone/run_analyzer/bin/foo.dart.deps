@@ -1,0 +1,10 @@
+v00001
+foo.dart
+false
+main 
+main 
+
+file:/Users/shailentuli/workspace/dart_sample_apps/drone/run_analyzer/./bin/foo.dart file:/Users/shailentuli/workspace/dart_sample_apps/drone/run_analyzer/./bin/foo.dart/foo.dart 1358879707000
+dart://core/core.dart dart://core/core.dart/print.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+

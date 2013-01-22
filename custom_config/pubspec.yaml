@@ -1,0 +1,5 @@
+name:  customConfig
+description:  A sample application
+
+dependencies:
+  unittest: any

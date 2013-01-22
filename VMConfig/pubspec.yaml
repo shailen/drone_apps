@@ -1,0 +1,5 @@
+name:  VMConfig
+description:  A sample application
+
+dependencies:
+  unittest: any

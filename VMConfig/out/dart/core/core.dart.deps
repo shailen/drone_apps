@@ -1,0 +1,448 @@
+v00001
+identical.dart
+false
+identical 
+b identical a 
+dart 
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/identical.dart 1357359234000
+
+object.dart
+false
+Object 
+noSuchMethod other == invocation hashCode toString runtimeType Object 
+dart 
+dart://core/core.dart dart://core/core.dart/invocation_mirror.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/type.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/identical.dart 1357359234000
+
+num.dart
+false
+num 
+other fractionDigits ceil round >= toStringAsPrecision remainder abs isInfinite isNegative ~/ toDouble precision toStringAsFixed toRadixString % * + / - num floor radix <= truncate isNaN toInt > < toStringAsExponential 
+dart 
+dart://core/core.dart dart://core/core.dart/num.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/double.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/comparable.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+print.dart
+false
+print 
+object print 
+dart 
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/print.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+
+list.dart
+false
+List 
+newLength E [] sort other last getRange indexOf collection from add clear initialValue value length startFrom List []= element index e addAll setRange b removeLast a compare lastIndexOf list removeRange insertRange addLast removeAt start first 
+dart 
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/sequences.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/collection.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/iterable.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+iterable.dart
+false
+Iterable 
+E Iterable iterator 
+dart 
+dart://core/core.dart dart://core/core.dart/iterator.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/iterable.dart 1357359234000
+
+pattern.dart
+false
+Pattern 
+str allMatches Pattern 
+dart 
+dart://core/core.dart dart://core/core.dart/regexp.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/pattern.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/iterable.dart 1357359234000
+
+future_impl.dart
+false
+_FutureImpl _CompleterImpl 
+_handleSuccess _forward res result handleException exception transformed completer stackTrace T transform _successListeners _FutureImpl complete onComplete future _stackTrace onException listener value _CompleterImpl _exception hasValue ex isComplete _isComplete e _forwardException onSuccess _throwOnException _complete transformException completeException transformation _exceptionHandlers v _value _setValue chain _exceptionHandled then _futureImpl innerException _completionListeners _setException handler 
+_handleSuccess dart 
+dart://core/core.dart dart://core/core.dart/errors.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/future_impl.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/future.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/identical.dart 1357359234000
+
+bool.dart
+false
+bool 
+bool 
+dart 
+dart://core/core.dart dart://core/core.dart/errors.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+
+duration.dart
+false
+Duration 
+other SECONDS_PER_MINUTE hashCode inSeconds MILLISECONDS_PER_DAY SECONDS_PER_DAY twoDigitSeconds SECONDS_PER_HOUR MINUTES_PER_HOUR MILLISECONDS_PER_HOUR == Duration HOURS_PER_DAY MINUTES_PER_DAY milliseconds inMilliseconds threeDigitMs twoDigitMinutes minutes hours n inHours MILLISECONDS_PER_SECOND compareTo inMinutes duration days seconds toString MILLISECONDS_PER_MINUTE inDays 
+dart milliseconds 
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/comparable.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/duration.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+string_buffer.dart
+false
+_StringBufferImpl StringBuffer 
+result _buffer addAll _length add content clear isEmpty addCharCode str _StringBufferImpl length toString obj StringBuffer objects charCode 
+dart 
+dart://core/core.dart dart://core/core.dart/errors.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/strings.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string_buffer.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/collection.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+comparable.dart
+false
+Comparator Comparable 
+T other b Comparator a compare compareTo Comparable 
+dart 
+dart://core/core.dart dart://core/core.dart/comparable.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+double.dart
+false
+double 
+other ceil MIN_POSITIVE % * + round double INFINITY / NEGATIVE_INFINITY - remainder abs floor source truncate ~/ toString parse NAN MAX_FINITE 
+dart 
+dart://core/core.dart dart://core/core.dart/num.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/double.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+
+invocation_mirror.dart
+false
+InvocationMirror 
+isMethod isSetter positionalArguments invokeOn InvocationMirror receiver namedArguments isAccessor memberName isGetter 
+dart 
+dart://core/core.dart dart://core/core.dart/map.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/invocation_mirror.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+
+regexp.dart
+false
+Match RegExp 
+[] firstMatch stringMatch Match RegExp ignoreCase groupCount str pattern start multiLine allMatches hasMatch group groups end 
+dart 
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/regexp.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/pattern.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/iterable.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+strings.dart
+false
+Strings 
+Strings strings join concatAll separator 
+dart 
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/strings.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+
+int.dart
+false
+int 
+isEven other & ceil int isOdd round - >> abs source floor truncate << shiftAmount ~ toString ^ | parse 
+dart 
+dart://core/core.dart dart://core/core.dart/num.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+function.dart
+false
+Function 
+apply positionalArguments namedArguments Function function 
+dart 
+dart://core/core.dart dart://core/core.dart/map.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+
+type.dart
+false
+Type 
+Type 
+dart 
+dart://core/core.dart dart://core/core.dart/type.dart 1357359234000
+
+exceptions.dart
+false
+IllegalJSRegExpException Exception FormatException IntegerDivisionByZeroException _ExceptionImplementation 
+message IllegalJSRegExpException Exception _errmsg FormatException IntegerDivisionByZeroException _ExceptionImplementation toString _pattern 
+dart 
+dart://core/core.dart dart://core/core.dart/exceptions.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+
+core.dart
+false
+
+
+dart 
+
+date.dart
+false
+_DateImpl Date 
+DEC JAN matched MON second AUG hashCode millisecondsSinceEpoch NOV MAY APR Date FEB year SUN isUtc absN timeZoneOffset toUtc TUE SEP compareTo toLocal otherMs sign difference _MAX_MILLISECONDS_SINCE_EPOCH JUL _brokenDownDateToMillisecondsSinceEpoch JUN month THU toString years match day timeZoneName > formattedString < FRI other >= add re WED minute weekday == millisecond SAT OCT min d DAYS_IN_WEEK ms n hour m MAR h subtract _DateImpl duration addOneMillisecond <= sec y 
+isUtc dart milliseconds 
+dart://core/core.dart dart://core/core.dart/date.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/errors.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/double.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/regexp.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/comparable.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/duration.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+collection.dart
+false
+Collection 
+f Collection E element e forEach contains every reduce isEmpty initialValue combine length value map previousValue some filter 
+dart iterator 
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/collection.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/iterable.dart 1357359234000
+
+set.dart
+false
+_HashSetIterator _HashSetImpl Set HashSet 
+result E res other remove set _HashSetImpl next containsAll contains collection every _nextValidIndex add clear isEmpty _advance initialValue length combine value map Set key HashSet removeAll isSubsetOf f element intersection iterator e addAll forEach keys _entries reduce set_ _HashSetIterator hasNext entry deletedKey toString _backingMap previousValue some filter 
+dart 
+dart://core/core.dart dart://core/core.dart/map.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/iterator.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/errors.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/collection.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/iterable.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://collection/collection.dart dart://collection/collection.dart/collections.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/set.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/identical.dart 1357359234000
+
+queue.dart
+false
+DoubleLinkedQueueEntry DoubleLinkedQueue _DoubleLinkedQueueIterator Queue _DoubleLinkedQueueEntrySentinel 
+last every _DoubleLinkedQueueEntrySentinel isEmpty value lastEntry combine Queue _next append element iterator addAll DoubleLinkedQueue forEach removeLast _element _DoubleLinkedQueueIterator firstEntry _previous reduce nextEntry addLast addFirst toString some filter _link E other remove next previousEntry collection add clear initialValue length map forEachEntry _asNonSentinelEntry removeFirst f DoubleLinkedQueueEntry e prepend counter n list _sentinel _currentEntry hasNext entry p previousValue first 
+_link dart 
+dart://core/core.dart dart://core/core.dart/iterator.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/errors.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/queue.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://collection/collection.dart dart://collection/collection.dart/collections.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/collection.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/identical.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/iterable.dart 1357359234000
+
+options.dart
+false
+_OptionsImpl Options 
+_nativeArguments _nativeExecutable arguments executable _OptionsImpl Options script _arguments _nativeScript 
+dart 
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/options.dart 1357359234000
+
+iterator.dart
+false
+Iterator 
+E Iterator hasNext next 
+dart 
+dart://core/core.dart dart://core/core.dart/iterator.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+
+errors.dart
+false
+UnimplementedError RuntimeError AssertionError RangeError ArgumentError StackOverflowError OutOfMemoryError Error NoSuchMethodError TypeError AbstractClassInstantiationError StateError NullThrownError FallThroughError CastError UnsupportedError 
+UnimplementedError _namedArguments RuntimeError ArgumentError _existingArgumentNames StackOverflowError escaped object backslash StateError existingArgumentNames NullThrownError _receiver CastError _objectToString value UnsupportedError key actualParameters _memberName AssertionError RangeError _className OutOfMemoryError NoSuchMethodError Error i safeToString message AbstractClassInstantiationError TypeError formalParameters FallThroughError sb toString _arguments 
+message dart 
+dart://core/core.dart dart://core/core.dart/map.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/num.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/double.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/errors.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string_buffer.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+sort.dart
+false
+coreSort _Sort 
+to comp_pivot1 sort index1 coreSort from _Sort pivot sixth left right less sortRange el5 comp pivot2 el4 el3 el2 b el1 a compare l j k i _doSort ak insertionSort_ pivots_are_equal t great el _dualPivotQuicksort index4 index5 _INSERTION_SORT_THRESHOLD index2 index3 pivot1 comp_pivot2 
+dart 
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/sort.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+string.dart
+false
+String 
+to [] other contains from endIndex indexOf charCodes isEmpty toUpperCase == substring length replaceFirst trim splitChars startsWith index startIndex lastIndexOf concat pattern start charCodeAt String toLowerCase split replaceAll endsWith 
+dart 
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/comparable.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/sequences.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/pattern.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+sequences.dart
+false
+SequenceIterator SequenceCollection Sequence SequenceList 
+newLength last contains indexOf every isEmpty combine value startFrom Sequence element index iterator addAll SequenceIterator removeLast forEach compare _position lastIndexOf reduce addLast removeAt start SequenceCollection some filter E result [] sort getRange next collection from add clear _sequence initialValue length map []= f b setRange a removeRange insertRange i sequence hasNext previousValue first SequenceList 
+dart sequence 
+dart://core/core.dart dart://core/core.dart/iterator.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/errors.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/sequences.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/collection.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+map.dart
+false
+LinkedHashMap _DeletedKeySentinel Map _KeyValuePair _LinkedHashMapImpl HashMap _HashMapImpl 
+ifAbsent hashCode _HashMapImpl isEmpty values _grow numberOfProbes currentProbe oldKeys value _map existingKey key index numberOfFreeOrDeleted initialHash newCapacity hash forEach putIfAbsent Map _KeyValuePair _values _keys _DELETED_KEY containsValue toString result _DeletedKeySentinel [] other remove _LinkedHashMapImpl _nextProbe _firstProbe K _probeForLookup clear LinkedHashMap V length capacity numberOfFree []= _probeForAdding f keys _INITIAL_CAPACITY newNumberOfEntries _isPowerOfTwo insertionIndex HashMap list i newIndex _computeLoadLimit _numberOfEntries containsKey _ensureCapacity _loadLimit entry _numberOfDeleted _list x oldValues 
+dart 
+dart://collection/collection.dart dart://collection/collection.dart/maps.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/map.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/errors.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/queue.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/collection.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/identical.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+future.dart
+false
+Future FutureUnhandledException Completer FutureNotCompleteException FutureAlreadyCompleteException Futures 
+result FutureNotCompleteException FutureAlreadyCompleteException exception handleException wait completer stackTrace pos transform T remaining values futures complete future onComplete onException value _ Futures f hasValue Future FutureUnhandledException element isComplete iterator forEach onSuccess transformException completeException transformation i input source Completer chain then toString 
+dart toString replaceAll 
+dart://core/core.dart dart://core/core.dart/iterator.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/exceptions.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/future_impl.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/future.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/iterable.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+stopwatch.dart
+false
+Stopwatch _StopwatchImpl 
+elapsedMicroseconds stop _now _StopwatchImpl _frequency frequency _start _stop Stopwatch start reset elapsedTicks elapsedMilliseconds 
+dart 
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/stopwatch.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+expect.dart
+false
+Expect _CheckExceptionFn _identical ExpectException 
+setEquals isNotNull reason diff exception listEquals missingSet _CheckExceptionFn _identical ExpectException eSnippet _getMessage fail aLen tolerance right key _fail defaultMessage equals throws notEquals msg approxEquals Expect identical sb eLen toString val isNull aSnippet snippet unexpected extraSet left isTrue stringEquals f e check b mapEquals a n i message expected isFalse s actual 
+dart 
+dart://core/core.dart dart://core/core.dart/map.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string_buffer.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/iterable.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/expect.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/num.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/exceptions.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/set.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/identical.dart 1357359234000
+
+hashable.dart
+false
+Hashable 
+hashCode Hashable 
+dart 
+dart://core/core.dart dart://core/core.dart/hashable.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+expando.dart
+false
+Expando 
+Expando T [] name value toString object []= 
+dart 
+dart://core/core.dart dart://core/core.dart/expando.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+

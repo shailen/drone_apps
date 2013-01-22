@@ -1,0 +1,30 @@
+v00001
+base.dart
+false
+port spawnFunction ReceivePort IsolateSpawnException SendPort spawnUri SendPortSync IsolateUnhandledException 
+port call other send callSync hashCode SendPortSync UnhandledExceptionCallback close stackTrace == SendPort _s receive e ReceivePort IsolateUnhandledException uri message topLevelFunction spawnFunction replyTo source IsolateSpawnException callback toString spawnUri toSendPort 
+dart toString replaceAll 
+dart://core/core.dart dart://core/core.dart/exceptions.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://isolate/isolate.dart dart://isolate/isolate.dart/base.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/future.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+timer.dart
+false
+Timer 
+timer callback Timer cancel milliseconds 
+dart 
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+dart://isolate/isolate.dart dart://isolate/isolate.dart/timer.dart 1357359234000
+
+isolate.dart
+false
+
+
+dart 
+

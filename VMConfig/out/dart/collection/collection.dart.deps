@@ -1,0 +1,72 @@
+v00001
+splay_tree.dart
+false
+SplayTreeMap SplayTreeNode 
+[] ifAbsent remove firstKey firstKeyAfter K clear isEmpty V values value current length tmp left right key SplayTreeNode []= f _root comp keys forEach putIfAbsent ifEmpty lastKeyBefore list k splay_ lastKey v node containsKey _count containsValue _dummy toString SplayTreeMap found 
+dart compareTo 
+dart://collection/collection.dart dart://collection/collection.dart/maps.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/map.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://collection/collection.dart dart://collection/collection.dart/splay_tree.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/comparable.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/collection.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+arrays.dart
+false
+Arrays 
+rangeCheck element startIndex count b a lastIndexOf endIndex indexOf dst j areEqual Arrays i message start length src dstStart srcStart copy 
+dart 
+dart://core/core.dart dart://core/core.dart/errors.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://collection/collection.dart dart://collection/collection.dart/arrays.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/identical.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+collections.dart
+false
+Collections 
+result isList contains every collectionToString isEmpty visiting initialValue combine map iterable f element e forEach Collections c _containsRef _emitCollection o reduce destination ref source previousValue _emitObject some first filter 
+dart 
+dart://collection/collection.dart dart://collection/collection.dart/maps.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/map.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/object.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string_buffer.dart 1357359234000
+dart://collection/collection.dart dart://collection/collection.dart/collections.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/collection.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/identical.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/iterable.dart 1357359234000
+
+maps.dart
+false
+Maps 
+f result ifAbsent forEach putIfAbsent m Maps k clear isEmpty v containsKey visiting value map containsValue length _emitMap getValues mapToString first key 
+dart 
+dart://core/core.dart dart://core/core.dart/map.dart 1357359234000
+dart://collection/collection.dart dart://collection/collection.dart/maps.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/bool.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/list.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/function.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string.dart 1357359234000
+dart://collection/collection.dart dart://collection/collection.dart/collections.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/string_buffer.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/collection.dart 1357359234000
+dart://core/core.dart dart://core/core.dart/int.dart 1357359234000
+
+collection.dart
+false
+
+
+dart 
+
