@@ -1,4 +1,4 @@
-library customConfig;
+library custom_config;
 
 import 'package:unittest/unittest.dart';
 
